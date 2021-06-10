@@ -5,7 +5,7 @@ This app was created during our time as students at Code Chrysalis
 # MentorMe. - Connect driven students to industry professionals for one on one mentoring sessions
 
 MentorMe is a fullstack application which aims to create a platform for students to communicate with experts in the industry. 
-This project was an oppurtunity for team members to put their skills to practice to develop a fullstack application in a limited amount of time while using the STRIP API. The STRIPE API used is the Client-Only One Time Payment capability for the test checkout portion of MentorMe.
+This project was an oppurtunity for team members to put their skills to practice to develop a fullstack application in a limited amount of time while using the STRIPE API. The STRIPE API used is the Client-Only One Time Payment capability for the test checkout portion of MentorMe.
 
 ## Built With
 
