@@ -9,7 +9,7 @@ This project was an oppurtunity for team members to put their skills to practice
 
 ## Built With
 
-* [Vuex](https://vuejs.org) for the UI
+* [VueJS](https://vuejs.org) for the UI
 * [Knex](http://knexjs.org) Query Builder
 * [Express](https://www.npmjs.com/package/express) Server
 * [Postgres](https://www.postgresql.org) Database
